@@ -21,13 +21,14 @@ brew install cmake
 
 To build your code for this assignment:
 ```
-$ cd asst1_rotatingbunny && mkdir build && cd build
+$ cd Asst1_RotatingBunny_Mac
+$ mkdir build && cd build
 $ cmake ..
 $ make
 ```
 These steps (1) create an out-of-source build directory, (2) configure the project using CMake, and (3) compile the project. If all goes well, you should see an executable app in the build directory. As you work, simply typing ```make``` in the build directory will recompile the project.
 
-NOTE: certain library files we used were OLDER version - if encounter any CMake version error, change all version to 3.5 or newer version number then the build should be successful. 
+NOTE: certain library files we used were OLDER version of OpenGL - if encounter any CMake version error, change all version to 3.5 or newer version number then the build should be successful. 
 
 ### Run
 
