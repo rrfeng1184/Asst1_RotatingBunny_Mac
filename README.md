@@ -1,7 +1,7 @@
 # UTD CS6323 Compute Animation and Gaming
 
 ## Getting started
-We will be distributing assignments with git. You can find the repository for this assignment at https://github.com/CS6323utd/asst1_rotatingbunny. If you are unfamiliar with git, here is what you need to do to get the starter code:
+We will be distributing assignments with git. You can find the repository for this assignment at https://github.com/rrfeng1184/Asst1_RotatingBunny_Mac. If you are unfamiliar with git, here is what you need to do to get the starter code:
 ```
 $ git clone https://github.com/rrfeng1184/Asst1_RotatingBunny_Mac.git
 ```
